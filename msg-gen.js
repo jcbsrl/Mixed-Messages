@@ -9,4 +9,4 @@ const generator = () => {
     let outputEnd = jokeEnd[Math.floor(Math.random() * jokeEnd.length)];
     return `${outputStart}${outputMid} ${outputEnd}`;
 }
-console.log(generator())
+console.log(generator());
