@@ -2,7 +2,7 @@
 
 A small program that makes different jokes with punch line.
 
-##Table of Contents
+## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
